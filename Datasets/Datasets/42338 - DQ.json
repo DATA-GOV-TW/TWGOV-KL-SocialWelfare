@@ -1,0 +1,80 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市政府地政處",
+        "pubdate": "2017/01/09 00:00"
+    },
+    "resources": {
+        "http://land.klcg.gov.tw/ReadFile?p=Business&id=3440": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "8a479645ce600afcf195c77fb08fc7c7",
+                "md5_url": "36bb006212db839ae3792dbb906fd162",
+                "url": "http://land.klcg.gov.tw/ReadFile?p=Business&id=3440",
+                "desc": "106年公告土地現值資料檔",
+                "fields": [
+                    "縣市",
+                    "行政區",
+                    "段小段",
+                    "地號",
+                    "公告現值"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 1000,
+                "api_fields": [
+                    {
+                        "name": "縣市"
+                    },
+                    {
+                        "name": "行政區"
+                    },
+                    {
+                        "name": "段小段"
+                    },
+                    {
+                        "name": "地號"
+                    },
+                    {
+                        "name": "公告現值"
+                    }
+                ],
+                "last_update_time": 1507316428,
+                "check_time": 1507316429,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_WWvvpm_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "縣市",
+                        "行政區",
+                        "段小段",
+                        "地號",
+                        "公告現值"
+                    ],
+                    "amount": 1000,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

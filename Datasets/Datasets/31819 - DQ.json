@@ -1,0 +1,80 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市衛生局",
+        "pubdate": "2016/05/30 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7361/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80105%E5%B9%B4%E5%BA%A6%E6%88%92%E8%8F%B8%E5%90%88%E7%B4%84%E6%A9%9F%E6%A7%8B.csv": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "6ed2b955bc845db8eaa81f535f2dea4a",
+                "md5_url": "0ea1470e1452c12eedd46d6a13adaaed",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7361/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80105%E5%B9%B4%E5%BA%A6%E6%88%92%E8%8F%B8%E5%90%88%E7%B4%84%E6%A9%9F%E6%A7%8B.csv",
+                "desc": "基隆市衛生局105年度戒菸合約機構",
+                "fields": [
+                    "區域",
+                    "機構名稱",
+                    "洽詢電話",
+                    "地址",
+                    "可提供之檢查項目"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 68,
+                "api_fields": [
+                    {
+                        "name": "區域"
+                    },
+                    {
+                        "name": "機構名稱"
+                    },
+                    {
+                        "name": "洽詢電話"
+                    },
+                    {
+                        "name": "地址"
+                    },
+                    {
+                        "name": "可提供之檢查項目"
+                    }
+                ],
+                "last_update_time": 1507316322,
+                "check_time": 1507316322,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_4zyn7g_s2.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "區域",
+                        "機構名稱",
+                        "洽詢電話",
+                        "地址",
+                        "可提供之檢查項目"
+                    ],
+                    "amount": 68,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

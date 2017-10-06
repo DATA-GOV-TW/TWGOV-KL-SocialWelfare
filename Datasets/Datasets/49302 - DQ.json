@@ -1,0 +1,54 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 0,
+        "desc_match": 0,
+        "csv": 0,
+        "agency": "基隆市稅務局",
+        "pubdate": "2017/07/31 00:00"
+    },
+    "resources": {
+        "https://www.kltb.gov.tw/core/download/getfile.php?itemId=3733&filekey=0": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 0,
+                "desc_match": 0,
+                "csv": 0,
+                "md5_file": "2f5b5b3dfbf44d28f1dda8d2bd2eeb85",
+                "md5_url": "fe4474d42aac89371c3ded6585f335c0",
+                "url": "https://www.kltb.gov.tw/core/download/getfile.php?itemId=3733&filekey=0",
+                "desc": "集中列示於政府資料開放平台資料集之詮釋資料，不同樓層數及用途之房屋標準單單價",
+                "fields": null,
+                "encoding": false,
+                "file_type": "csv",
+                "amount": 0,
+                "api_fields": null,
+                "last_update_time": 1507317134,
+                "check_time": 1507317134,
+                "ref_key": "",
+                "messages": [
+                    "[013] is_table_csv(): [csvlint]:\nLine #39 has error: bare \" in non-quoted-field\n\nunable to parse any further\n"
+                ]
+            },
+            "files": [
+                {
+                    "filename": "DTQC_m34mFu_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 0,
+                    "desc_match": 0,
+                    "encoding": "",
+                    "fields": null,
+                    "amount": 0,
+                    "message": "[013] is_table_csv(): [csvlint]:\nLine #39 has error: bare \" in non-quoted-field\n\nunable to parse any further\n"
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

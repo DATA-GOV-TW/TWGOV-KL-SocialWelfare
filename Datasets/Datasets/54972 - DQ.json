@@ -1,0 +1,90 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市政府社會處",
+        "pubdate": "2017/09/28 00:00"
+    },
+    "resources": {
+        "http://social.klcg.gov.tw/laborer_srv/info_view.php?file=dl&fid=5370&dept_id=4&serno=20170922103152": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "6146214334a0fc408777843001ca4167",
+                "md5_url": "833fbc7df9a432a897df08d0360765f1",
+                "url": "http://social.klcg.gov.tw/laborer_srv/info_view.php?file=dl&fid=5370&dept_id=4&serno=20170922103152",
+                "desc": "",
+                "fields": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 171,
+                "api_fields": [
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": ""
+                    }
+                ],
+                "last_update_time": 1506566767,
+                "check_time": 1507317210,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_b8Un3i_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "amount": 171,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

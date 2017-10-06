@@ -1,0 +1,52 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 0,
+        "encoding_match": 2,
+        "desc_match": 0,
+        "csv": 0,
+        "agency": "基隆市衛生局",
+        "pubdate": "2016/05/30 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/10121/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80103%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97.pdf": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 0,
+                "encoding_match": 2,
+                "desc_match": 0,
+                "csv": 0,
+                "md5_file": "261853f98a61a925c9f02ab6deada84c",
+                "md5_url": "560c7e311209a61cec6d8f963662fe91",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/10121/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80103%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E6%B1%BA%E7%AE%97.pdf",
+                "desc": "基隆市衛生局103年度單位決算",
+                "fields": [],
+                "encoding": null,
+                "file_type": "pdf",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": 1507316325,
+                "check_time": 1507316325,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_5y0css_s2.pdf",
+                    "file_type": "PDF",
+                    "structure": 0,
+                    "csv": 0,
+                    "desc_match": 0,
+                    "encoding": "",
+                    "fields": [],
+                    "amount": 0,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

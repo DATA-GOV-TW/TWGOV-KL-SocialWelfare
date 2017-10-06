@@ -1,0 +1,42 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 0,
+        "structure": 2,
+        "encoding_match": 2,
+        "desc_match": 2,
+        "csv": 2,
+        "agency": "基隆市政府主計處",
+        "pubdate": "2017/06/03 00:00"
+    },
+    "resources": {
+        "http://accounting.klcg.gov.tw/tw/Subject/ThemesServiceLi?ClassId=08060900": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 0,
+                "structure": 2,
+                "encoding_match": 2,
+                "desc_match": 2,
+                "csv": 2,
+                "md5_file": "",
+                "md5_url": "002d31914c00d17a1587ce6f40162ae7",
+                "url": "http://accounting.klcg.gov.tw/tw/Subject/ThemesServiceLi?ClassId=08060900",
+                "desc": "基隆市政府機關年度預算-總預算",
+                "fields": [],
+                "encoding": "",
+                "file_type": "",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": "",
+                "check_time": "",
+                "ref_key": "",
+                "messages": [
+                    "[001] download_file(): cannot download directly."
+                ]
+            },
+            "files": []
+        }
+    },
+    "no_qc": []
+}

@@ -1,0 +1,65 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市衛生局",
+        "pubdate": "2016/03/23 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7066/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E9%95%B7%E7%85%A7%E5%B1%85%E5%AE%B6%E8%AD%B7%E7%90%86%E3%80%81%E5%BE%A9%E5%81%A5%E3%80%81%E5%96%98%E6%81%AF%E5%90%88%E7%B4%84%E6%A9%9F%E6%A7%8B.csv": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "f8e41c98eb6f299997951673813ae62e",
+                "md5_url": "aa908e10290d2014b4e5b32f56c59de2",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7066/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E9%95%B7%E7%85%A7%E5%B1%85%E5%AE%B6%E8%AD%B7%E7%90%86%E3%80%81%E5%BE%A9%E5%81%A5%E3%80%81%E5%96%98%E6%81%AF%E5%90%88%E7%B4%84%E6%A9%9F%E6%A7%8B.csv",
+                "desc": "基隆市長照居家護理、復健、喘息合約機構",
+                "fields": [
+                    "服務別",
+                    "機構名稱"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 17,
+                "api_fields": [
+                    {
+                        "name": "服務別"
+                    },
+                    {
+                        "name": "機構名稱"
+                    }
+                ],
+                "last_update_time": 1507316301,
+                "check_time": 1507316301,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_WZvWLO_s2.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "服務別",
+                        "機構名稱"
+                    ],
+                    "amount": 17,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

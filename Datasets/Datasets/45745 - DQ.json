@@ -1,0 +1,115 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 0,
+        "csv": 1,
+        "agency": "基隆市環境保護局",
+        "pubdate": "2017/08/10 00:00"
+    },
+    "resources": {
+        "http://opendata.epa.gov.tw/ws/Data/OTH01092/?$skip=0&$top=1000&format=csv": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 0,
+                "csv": 1,
+                "md5_file": "6ca6b766966696f7ff3005cc797470ff",
+                "md5_url": "d139f9308756f53f74c30dffc7104f24",
+                "url": "http://opendata.epa.gov.tw/ws/Data/OTH01092/?$skip=0&$top=1000&format=csv",
+                "desc": "基隆市建檔管理公廁名稱位置資料-CSV",
+                "fields": [
+                    "Country",
+                    "City",
+                    "Village",
+                    "Number",
+                    "Name",
+                    "Address",
+                    "Administration",
+                    "Latitude",
+                    "Longitude",
+                    "Grade",
+                    "Type2",
+                    "Type"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 1000,
+                "api_fields": [
+                    {
+                        "name": "Country"
+                    },
+                    {
+                        "name": "City"
+                    },
+                    {
+                        "name": "Village"
+                    },
+                    {
+                        "name": "Number"
+                    },
+                    {
+                        "name": "Name"
+                    },
+                    {
+                        "name": "Address"
+                    },
+                    {
+                        "name": "Administration"
+                    },
+                    {
+                        "name": "Latitude"
+                    },
+                    {
+                        "name": "Longitude"
+                    },
+                    {
+                        "name": "Grade"
+                    },
+                    {
+                        "name": "Type2"
+                    },
+                    {
+                        "name": "Type"
+                    }
+                ],
+                "last_update_time": 1507316833,
+                "check_time": 1507316834,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_Hhvuzm_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 0,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "Country",
+                        "City",
+                        "Village",
+                        "Number",
+                        "Name",
+                        "Address",
+                        "Administration",
+                        "Latitude",
+                        "Longitude",
+                        "Grade",
+                        "Type2",
+                        "Type"
+                    ],
+                    "amount": 1000,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

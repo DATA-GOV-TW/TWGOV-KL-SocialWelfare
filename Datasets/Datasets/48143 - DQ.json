@@ -1,0 +1,42 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 0,
+        "structure": 2,
+        "encoding_match": 2,
+        "desc_match": 2,
+        "csv": 2,
+        "agency": "基隆市環境保護局",
+        "pubdate": "2017/07/12 00:00"
+    },
+    "resources": {
+        "http://210.203.87.112/klepaqw/": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 0,
+                "structure": 2,
+                "encoding_match": 2,
+                "desc_match": 2,
+                "csv": 2,
+                "md5_file": "",
+                "md5_url": "3da507409d8cd7d691873ac0f5fb5517",
+                "url": "http://210.203.87.112/klepaqw/",
+                "desc": "機車定檢站位置、機車定檢查詢、機車新購及汰舊補助、電動機車充電站",
+                "fields": [],
+                "encoding": "",
+                "file_type": "",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": "",
+                "check_time": "",
+                "ref_key": "",
+                "messages": [
+                    "[001] download_file(): cannot download directly."
+                ]
+            },
+            "files": []
+        }
+    },
+    "no_qc": []
+}

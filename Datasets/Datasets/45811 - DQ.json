@@ -1,0 +1,68 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 0,
+        "downloadable": 0,
+        "structure": 2,
+        "encoding_match": 2,
+        "desc_match": 2,
+        "csv": 2,
+        "agency": "基隆市警察局",
+        "pubdate": "2017/05/31 00:00"
+    },
+    "resources": {
+        "http://www.klg.gov.tw/cht/index.php?code=list&flag=detail&ids=3&article_id=1859": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 0,
+                "structure": 2,
+                "encoding_match": 2,
+                "desc_match": 2,
+                "csv": 2,
+                "md5_file": "",
+                "md5_url": "a9271f2f5e04a2dd8e7ffc1f896c5d38",
+                "url": "http://www.klg.gov.tw/cht/index.php?code=list&flag=detail&ids=3&article_id=1859",
+                "desc": "提供本局各單位服務地址、電話及時間。",
+                "fields": [],
+                "encoding": "",
+                "file_type": "",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": "",
+                "check_time": "",
+                "ref_key": "",
+                "messages": [
+                    "[001] download_file(): cannot download directly."
+                ]
+            },
+            "files": []
+        },
+        "www.klg.gov.tw/upload/cht/attachment/c12835d8882108498f91b6c83bdb44df.zip": {
+            "resource": {
+                "linkable": 0,
+                "downloadable": 2,
+                "structure": 2,
+                "encoding_match": 2,
+                "desc_match": 2,
+                "csv": 2,
+                "md5_file": "",
+                "md5_url": "76dc9c18d93da6a12e703b2cb23759e3",
+                "url": "www.klg.gov.tw/upload/cht/attachment/c12835d8882108498f91b6c83bdb44df.zip",
+                "desc": "基隆市警察局服務時地",
+                "fields": [],
+                "encoding": "",
+                "file_type": "",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": "",
+                "check_time": "",
+                "ref_key": "",
+                "messages": [
+                    "[014] 資料資源 URL 格式錯誤。URL [www.klg.gov.tw/upload/cht/attachment/c12835d8882108498f91b6c83bdb44df.zip] is invalid."
+                ]
+            },
+            "files": []
+        }
+    },
+    "no_qc": []
+}

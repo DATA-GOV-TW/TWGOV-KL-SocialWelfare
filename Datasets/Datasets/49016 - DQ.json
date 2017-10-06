@@ -1,0 +1,80 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市政府產業發展處",
+        "pubdate": "2017/09/01 00:00"
+    },
+    "resources": {
+        "http://economy.klcg.gov.tw/DlFile.ashx?no=1190009": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "ea672930cc2465da35b329e42189232e",
+                "md5_url": "573a44b9576002d91f16dd05def94c96",
+                "url": "http://economy.klcg.gov.tw/DlFile.ashx?no=1190009",
+                "desc": "",
+                "fields": [
+                    "工廠名稱",
+                    "廠址",
+                    "負責人姓名",
+                    "產業類別",
+                    "產品名稱"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 261,
+                "api_fields": [
+                    {
+                        "name": "工廠名稱"
+                    },
+                    {
+                        "name": "廠址"
+                    },
+                    {
+                        "name": "負責人姓名"
+                    },
+                    {
+                        "name": "產業類別"
+                    },
+                    {
+                        "name": "產品名稱"
+                    }
+                ],
+                "last_update_time": 1507317130,
+                "check_time": 1507317130,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_WnsuVB_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "工廠名稱",
+                        "廠址",
+                        "負責人姓名",
+                        "產業類別",
+                        "產品名稱"
+                    ],
+                    "amount": 261,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

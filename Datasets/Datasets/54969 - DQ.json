@@ -1,0 +1,95 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市政府社會處",
+        "pubdate": "2017/09/28 00:00"
+    },
+    "resources": {
+        "http://social.klcg.gov.tw/laborer_srv/info_view.php?file=dl&fid=5374&dept_id=4&serno=20170922103228": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "a549fb1c0412fa9b2f9301c3e7fde483",
+                "md5_url": "dc06db090b4ebfbcd181f92761b9a31c",
+                "url": "http://social.klcg.gov.tw/laborer_srv/info_view.php?file=dl&fid=5374&dept_id=4&serno=20170922103228",
+                "desc": "",
+                "fields": [
+                    "家數",
+                    "",
+                    "",
+                    "會務人員",
+                    "會址",
+                    "聯絡電話",
+                    "傳真電話",
+                    ""
+                ],
+                "encoding": "BIG5",
+                "file_type": "csv",
+                "amount": 6,
+                "api_fields": [
+                    {
+                        "name": "家數"
+                    },
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": "會務人員"
+                    },
+                    {
+                        "name": "會址"
+                    },
+                    {
+                        "name": "聯絡電話"
+                    },
+                    {
+                        "name": "傳真電話"
+                    },
+                    {
+                        "name": ""
+                    }
+                ],
+                "last_update_time": 1506566564,
+                "check_time": 1507317198,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_ZSOsWs_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "BIG5",
+                    "fields": [
+                        "家數",
+                        "",
+                        "",
+                        "會務人員",
+                        "會址",
+                        "聯絡電話",
+                        "傳真電話",
+                        ""
+                    ],
+                    "amount": 6,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

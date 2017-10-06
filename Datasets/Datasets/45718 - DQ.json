@@ -1,0 +1,42 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 0,
+        "structure": 2,
+        "encoding_match": 2,
+        "desc_match": 2,
+        "csv": 2,
+        "agency": "基隆市政府社會處",
+        "pubdate": "2017/06/03 00:00"
+    },
+    "resources": {
+        "http://social.klcg.gov.tw/social_srv/welfare_list.php?Kid=11&Mid=5&Cid=5": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 0,
+                "structure": 2,
+                "encoding_match": 2,
+                "desc_match": 2,
+                "csv": 2,
+                "md5_file": "",
+                "md5_url": "684fde9e1b381b6d7b46a58095ec4b0a",
+                "url": "http://social.klcg.gov.tw/social_srv/welfare_list.php?Kid=11&Mid=5&Cid=5",
+                "desc": "基隆市合法老人福利機構資料",
+                "fields": [],
+                "encoding": "",
+                "file_type": "",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": "",
+                "check_time": "",
+                "ref_key": "",
+                "messages": [
+                    "[001] download_file(): cannot download directly."
+                ]
+            },
+            "files": []
+        }
+    },
+    "no_qc": []
+}

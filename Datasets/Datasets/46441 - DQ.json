@@ -1,0 +1,95 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 0,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市衛生局",
+        "pubdate": "2017/06/13 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/9967/file/%E5%9F%BA%E9%9A%86%E5%B8%82105%E5%B9%B4%E8%A1%9B%E7%94%9F%E7%AE%A1%E7%90%86%E5%84%AA%E8%89%AF%E5%BB%A0%E5%95%86.csv": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 0,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "902d417b0e6b9a901ad2c2b1c645f127",
+                "md5_url": "be26b3ac00d3b9f99b867eee787057cf",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/9967/file/%E5%9F%BA%E9%9A%86%E5%B8%82105%E5%B9%B4%E8%A1%9B%E7%94%9F%E7%AE%A1%E7%90%86%E5%84%AA%E8%89%AF%E5%BB%A0%E5%95%86.csv",
+                "desc": "基隆市105年衛生管理優良廠商",
+                "fields": [
+                    "項目",
+                    "家數",
+                    "編號",
+                    "廠商市招名稱",
+                    "營業登記名稱",
+                    "電話",
+                    "營業地址",
+                    "評核等級"
+                ],
+                "encoding": "BIG5",
+                "file_type": "csv",
+                "amount": 94,
+                "api_fields": [
+                    {
+                        "name": "項目"
+                    },
+                    {
+                        "name": "家數"
+                    },
+                    {
+                        "name": "編號"
+                    },
+                    {
+                        "name": "廠商市招名稱"
+                    },
+                    {
+                        "name": "營業登記名稱"
+                    },
+                    {
+                        "name": "電話"
+                    },
+                    {
+                        "name": "營業地址"
+                    },
+                    {
+                        "name": "評核等級"
+                    }
+                ],
+                "last_update_time": 1507316865,
+                "check_time": 1507316865,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_S53eHq_s2.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "BIG5",
+                    "fields": [
+                        "項目",
+                        "家數",
+                        "編號",
+                        "廠商市招名稱",
+                        "營業登記名稱",
+                        "電話",
+                        "營業地址",
+                        "評核等級"
+                    ],
+                    "amount": 94,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

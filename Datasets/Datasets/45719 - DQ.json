@@ -1,0 +1,85 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市政府社會處",
+        "pubdate": "2017/06/03 00:00"
+    },
+    "resources": {
+        "http://social.klcg.gov.tw/social_srv/welfare_dl.php?file=dl&Kid=11&Mid=7&Cid=1": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "38a29125bfb8b7ed249c2db1a45b74b1",
+                "md5_url": "3496099601a74948d66981c5f42dc83f",
+                "url": "http://social.klcg.gov.tw/social_srv/welfare_dl.php?file=dl&Kid=11&Mid=7&Cid=1",
+                "desc": "基隆市托育資源中心",
+                "fields": [
+                    "區別",
+                    "機構名稱",
+                    "電話",
+                    "傳真",
+                    "地址",
+                    "網址"
+                ],
+                "encoding": "BIG5",
+                "file_type": "csv",
+                "amount": 4,
+                "api_fields": [
+                    {
+                        "name": "區別"
+                    },
+                    {
+                        "name": "機構名稱"
+                    },
+                    {
+                        "name": "電話"
+                    },
+                    {
+                        "name": "傳真"
+                    },
+                    {
+                        "name": "地址"
+                    },
+                    {
+                        "name": "網址"
+                    }
+                ],
+                "last_update_time": 1506649793,
+                "check_time": 1507316784,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_QLky0a_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "BIG5",
+                    "fields": [
+                        "區別",
+                        "機構名稱",
+                        "電話",
+                        "傳真",
+                        "地址",
+                        "網址"
+                    ],
+                    "amount": 4,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

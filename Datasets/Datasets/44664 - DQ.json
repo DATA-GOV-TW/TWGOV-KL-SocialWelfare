@@ -1,0 +1,54 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 0,
+        "desc_match": 0,
+        "csv": 0,
+        "agency": "基隆市稅務局",
+        "pubdate": "2017/03/31 00:00"
+    },
+    "resources": {
+        "https://www.kltb.gov.tw/core/download/getfile.php?itemId=2692&filekey=1": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 0,
+                "desc_match": 0,
+                "csv": 0,
+                "md5_file": "a43ca10559e0ad38c92e7092717ca8da",
+                "md5_url": "f8e64602b9529b8cbea1244664e833cd",
+                "url": "https://www.kltb.gov.tw/core/download/getfile.php?itemId=2692&filekey=1",
+                "desc": "CSV資料集清單",
+                "fields": null,
+                "encoding": false,
+                "file_type": "csv",
+                "amount": 0,
+                "api_fields": null,
+                "last_update_time": 1507316628,
+                "check_time": 1507316628,
+                "ref_key": "",
+                "messages": [
+                    "[013] is_table_csv(): [csvlint]:\nLine #2 has error: bare \" in non-quoted-field\n\nunable to parse any further\n"
+                ]
+            },
+            "files": [
+                {
+                    "filename": "DTQC_NMjSs4_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 0,
+                    "desc_match": 0,
+                    "encoding": "",
+                    "fields": null,
+                    "amount": 0,
+                    "message": "[013] is_table_csv(): [csvlint]:\nLine #2 has error: bare \" in non-quoted-field\n\nunable to parse any further\n"
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

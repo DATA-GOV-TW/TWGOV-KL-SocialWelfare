@@ -1,0 +1,42 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 2,
+        "encoding_match": 2,
+        "desc_match": 2,
+        "csv": 2,
+        "agency": "基隆市衛生局",
+        "pubdate": "2016/05/30 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7365/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80105%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97.zip": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 2,
+                "encoding_match": 2,
+                "desc_match": 2,
+                "csv": 2,
+                "md5_file": "00aa76c73ccf351c14e21b156345b48c",
+                "md5_url": "3d213759611261ec248ee07d04d04718",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7365/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80105%E5%B9%B4%E5%BA%A6%E5%96%AE%E4%BD%8D%E9%A0%90%E7%AE%97.zip",
+                "desc": "基隆市衛生局105年度單位預算",
+                "fields": [],
+                "encoding": "",
+                "file_type": "zip",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": 1507316327,
+                "check_time": 1507316327,
+                "ref_key": "",
+                "messages": [
+                    "[006] resource_quality(): 沒有檔案可供檢測。"
+                ]
+            },
+            "files": []
+        }
+    },
+    "no_qc": []
+}

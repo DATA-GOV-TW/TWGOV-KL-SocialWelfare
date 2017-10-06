@@ -1,0 +1,68 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 0,
+        "downloadable": 0,
+        "structure": 2,
+        "encoding_match": 2,
+        "desc_match": 2,
+        "csv": 2,
+        "agency": "基隆市警察局",
+        "pubdate": "2016/05/11 00:00"
+    },
+    "resources": {
+        "http://www.klg.gov.tw/cht/index.php?code=list&ids=284": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 0,
+                "structure": 2,
+                "encoding_match": 2,
+                "desc_match": 2,
+                "csv": 2,
+                "md5_file": "",
+                "md5_url": "b4cc5f85c53c4ba1e8621cfec2fa56db",
+                "url": "http://www.klg.gov.tw/cht/index.php?code=list&ids=284",
+                "desc": "每月道路交通事故分析統計表",
+                "fields": [],
+                "encoding": "",
+                "file_type": "",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": "",
+                "check_time": "",
+                "ref_key": "",
+                "messages": [
+                    "[001] download_file(): cannot download directly."
+                ]
+            },
+            "files": []
+        },
+        "www.klg.gov.tw/upload/cht/attachment/967977473688a15ae3395e8fd0011b29.zip": {
+            "resource": {
+                "linkable": 0,
+                "downloadable": 2,
+                "structure": 2,
+                "encoding_match": 2,
+                "desc_match": 2,
+                "csv": 2,
+                "md5_file": "",
+                "md5_url": "6dc4f04e1e49951b56c2a56b509f7644",
+                "url": "www.klg.gov.tw/upload/cht/attachment/967977473688a15ae3395e8fd0011b29.zip",
+                "desc": "105年道路交通事故統計與分析",
+                "fields": [],
+                "encoding": "",
+                "file_type": "",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": "",
+                "check_time": "",
+                "ref_key": "",
+                "messages": [
+                    "[014] 資料資源 URL 格式錯誤。URL [www.klg.gov.tw/upload/cht/attachment/967977473688a15ae3395e8fd0011b29.zip] is invalid."
+                ]
+            },
+            "files": []
+        }
+    },
+    "no_qc": []
+}

@@ -1,0 +1,95 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 0,
+        "csv": 1,
+        "agency": "基隆市衛生局",
+        "pubdate": "2015/05/15 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/10120/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%85%AC%E5%91%8A%E4%B9%8B%E5%AE%A4%E5%A4%96%E7%A6%81%E8%8F%B8%E5%A0%B4%E6%89%80_1051214.csv": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 0,
+                "csv": 1,
+                "md5_file": "131571c99bdb55ef932d98b1b7ca01d1",
+                "md5_url": "9e4b2a49bc0fc3d89ad5f3d9530729f0",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/10120/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%85%AC%E5%91%8A%E4%B9%8B%E5%AE%A4%E5%A4%96%E7%A6%81%E8%8F%B8%E5%A0%B4%E6%89%80_1051214.csv",
+                "desc": "序、公告日期、公告機關、菸害防制法、禁菸範圍說明、公告地點、場所管理單位、所在地處（概註）",
+                "fields": [
+                    "序",
+                    "公告日期",
+                    "公告機關",
+                    "菸害防制法",
+                    "禁菸範圍說明",
+                    "公告地點",
+                    "場所管理單位",
+                    "所在地處（概註）"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 93,
+                "api_fields": [
+                    {
+                        "name": "序"
+                    },
+                    {
+                        "name": "公告日期"
+                    },
+                    {
+                        "name": "公告機關"
+                    },
+                    {
+                        "name": "菸害防制法"
+                    },
+                    {
+                        "name": "禁菸範圍說明"
+                    },
+                    {
+                        "name": "公告地點"
+                    },
+                    {
+                        "name": "場所管理單位"
+                    },
+                    {
+                        "name": "所在地處（概註）"
+                    }
+                ],
+                "last_update_time": 1507316281,
+                "check_time": 1507316281,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_iuaGRP_s2.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 0,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "序",
+                        "公告日期",
+                        "公告機關",
+                        "菸害防制法",
+                        "禁菸範圍說明",
+                        "公告地點",
+                        "場所管理單位",
+                        "所在地處（概註）"
+                    ],
+                    "amount": 93,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

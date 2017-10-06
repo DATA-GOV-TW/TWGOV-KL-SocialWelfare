@@ -1,0 +1,52 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 0,
+        "encoding_match": 2,
+        "desc_match": 0,
+        "csv": 0,
+        "agency": "基隆市政府地政處",
+        "pubdate": "2017/08/10 00:00"
+    },
+    "resources": {
+        "http://land.klcg.gov.tw/ReadFile?p=Business&id=3504": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 0,
+                "encoding_match": 2,
+                "desc_match": 0,
+                "csv": 0,
+                "md5_file": "3425718ee9ece64f59f90f6be354f71a",
+                "md5_url": "1414f03178a073e86bcb94559fd424cb",
+                "url": "http://land.klcg.gov.tw/ReadFile?p=Business&id=3504",
+                "desc": "106年7月基隆市土地建物登記管理",
+                "fields": [],
+                "encoding": null,
+                "file_type": "pdf",
+                "amount": 0,
+                "api_fields": [],
+                "last_update_time": 1507317162,
+                "check_time": 1507317162,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_tyF3hX_s1.pdf",
+                    "file_type": "PDF",
+                    "structure": 0,
+                    "csv": 0,
+                    "desc_match": 0,
+                    "encoding": "",
+                    "fields": [],
+                    "amount": 0,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

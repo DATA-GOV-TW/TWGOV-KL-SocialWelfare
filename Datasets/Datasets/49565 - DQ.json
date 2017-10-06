@@ -1,0 +1,90 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 0,
+        "csv": 1,
+        "agency": "基隆市政府產業發展處",
+        "pubdate": "2017/08/28 00:00"
+    },
+    "resources": {
+        "http://economy.klcg.gov.tw/DlFile.ashx?no=1182BAB": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 0,
+                "csv": 1,
+                "md5_file": "0fc038bf5062d8b97652c980d4e88271",
+                "md5_url": "7eb912f1e14c568ef9d783b5df6db3c3",
+                "url": "http://economy.klcg.gov.tw/DlFile.ashx?no=1182BAB",
+                "desc": "基隆市106年土石流警戒值",
+                "fields": [
+                    "縣市",
+                    "鄉鎮",
+                    "警戒範圍",
+                    "",
+                    "土石流警戒\n基準值\n(mm)",
+                    "參考雨量站",
+                    ""
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 606,
+                "api_fields": [
+                    {
+                        "name": "縣市"
+                    },
+                    {
+                        "name": "鄉鎮"
+                    },
+                    {
+                        "name": "警戒範圍"
+                    },
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": "土石流警戒\n基準值\n(mm)"
+                    },
+                    {
+                        "name": "參考雨量站"
+                    },
+                    {
+                        "name": ""
+                    }
+                ],
+                "last_update_time": 1507317145,
+                "check_time": 1507317145,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_nRmXmF_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 0,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "縣市",
+                        "鄉鎮",
+                        "警戒範圍",
+                        "",
+                        "土石流警戒\n基準值\n(mm)",
+                        "參考雨量站",
+                        ""
+                    ],
+                    "amount": 606,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

@@ -1,0 +1,75 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市政府產業發展處",
+        "pubdate": "2015/02/06 00:00"
+    },
+    "resources": {
+        "http://economy.klcg.gov.tw/DlFile.ashx?no=1170516": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "741fcdf7210ac4fee779c77f4b7ab8c4",
+                "md5_url": "8b9961be22d8ffeffd526593d9ff14bd",
+                "url": "http://economy.klcg.gov.tw/DlFile.ashx?no=1170516",
+                "desc": "基隆十大伴手禮名錄\r\n\r\n",
+                "fields": [
+                    "品名",
+                    "公司",
+                    "地址",
+                    "電話"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 18,
+                "api_fields": [
+                    {
+                        "name": "品名"
+                    },
+                    {
+                        "name": "公司"
+                    },
+                    {
+                        "name": "地址"
+                    },
+                    {
+                        "name": "電話"
+                    }
+                ],
+                "last_update_time": 1507316263,
+                "check_time": 1507316263,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_nRPF0j_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "品名",
+                        "公司",
+                        "地址",
+                        "電話"
+                    ],
+                    "amount": 18,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

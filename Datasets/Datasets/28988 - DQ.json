@@ -1,0 +1,70 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市衛生局",
+        "pubdate": "2016/03/23 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7065/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%85%92%E7%AB%A5%E7%99%BC%E5%B1%95%E7%AF%A9%E6%AA%A2%E6%A9%9F%E6%A7%8B.csv": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "4b8c7fa91f30a05d24c0a35f4bc3952e",
+                "md5_url": "9fb4b700eef7d0d68e019dd0cba0e85c",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7065/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%85%92%E7%AB%A5%E7%99%BC%E5%B1%95%E7%AF%A9%E6%AA%A2%E6%A9%9F%E6%A7%8B.csv",
+                "desc": "基隆市兒童發展篩檢機構",
+                "fields": [
+                    "醫事機構名稱",
+                    "地址",
+                    "電話"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 53,
+                "api_fields": [
+                    {
+                        "name": "醫事機構名稱"
+                    },
+                    {
+                        "name": "地址"
+                    },
+                    {
+                        "name": "電話"
+                    }
+                ],
+                "last_update_time": 1507316298,
+                "check_time": 1507316298,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_gwvbSl_s2.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "醫事機構名稱",
+                        "地址",
+                        "電話"
+                    ],
+                    "amount": 53,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

@@ -1,0 +1,75 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市衛生局",
+        "pubdate": "2016/03/23 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7063/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9B%9B%E5%A4%A7%E7%99%8C%E7%97%87%E7%AF%A9%E6%AA%A2%E9%86%AB%E7%99%82%E9%99%A2%E6%89%80.csv": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "97953a43bb66c6bd62ca6db4cc857ee1",
+                "md5_url": "d6722d3d856e0b46dfc3b08353eb97df",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7063/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9B%9B%E5%A4%A7%E7%99%8C%E7%97%87%E7%AF%A9%E6%AA%A2%E9%86%AB%E7%99%82%E9%99%A2%E6%89%80.csv",
+                "desc": "基隆市四大癌症篩檢醫療院所",
+                "fields": [
+                    "區域",
+                    "機構名稱",
+                    "洽詢電話",
+                    "可提供之檢查項目"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 119,
+                "api_fields": [
+                    {
+                        "name": "區域"
+                    },
+                    {
+                        "name": "機構名稱"
+                    },
+                    {
+                        "name": "洽詢電話"
+                    },
+                    {
+                        "name": "可提供之檢查項目"
+                    }
+                ],
+                "last_update_time": 1507316292,
+                "check_time": 1507316292,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_ntkFBK_s2.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "區域",
+                        "機構名稱",
+                        "洽詢電話",
+                        "可提供之檢查項目"
+                    ],
+                    "amount": 119,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

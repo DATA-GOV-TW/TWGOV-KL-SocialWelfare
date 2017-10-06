@@ -1,0 +1,75 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市政府社會處",
+        "pubdate": "2017/09/30 00:00"
+    },
+    "resources": {
+        "http://social.klcg.gov.tw/fdl/info_view.php?file=dl&fid=5422&dept_id=1&serno=20160126150638": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "cdfa0e7609bba1673ccf89d4bd3325f5",
+                "md5_url": "44f2f1a90daf00d027b568ebae76eaf1",
+                "url": "http://social.klcg.gov.tw/fdl/info_view.php?file=dl&fid=5422&dept_id=1&serno=20160126150638",
+                "desc": "基隆市104年度老人福利機構評鑑結果表",
+                "fields": [
+                    "項次",
+                    "機構名稱",
+                    "成績等第",
+                    "備註"
+                ],
+                "encoding": "BIG5",
+                "file_type": "csv",
+                "amount": 30,
+                "api_fields": [
+                    {
+                        "name": "項次"
+                    },
+                    {
+                        "name": "機構名稱"
+                    },
+                    {
+                        "name": "成績等第"
+                    },
+                    {
+                        "name": "備註"
+                    }
+                ],
+                "last_update_time": 1506761867,
+                "check_time": 1507317216,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_0rFyRH_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "BIG5",
+                    "fields": [
+                        "項次",
+                        "機構名稱",
+                        "成績等第",
+                        "備註"
+                    ],
+                    "amount": 30,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

@@ -1,0 +1,80 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市政府社會處",
+        "pubdate": "2017/09/29 00:00"
+    },
+    "resources": {
+        "http://social.klcg.gov.tw/fdl/info_view.php?file=dl&fid=5416&dept_id=1&serno=20160128092515": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "f60e091fcb6b726ef9c5975ccbb3f58c",
+                "md5_url": "c6ef26669ae841b6a66a794785497ee7",
+                "url": "http://social.klcg.gov.tw/fdl/info_view.php?file=dl&fid=5416&dept_id=1&serno=20160128092515",
+                "desc": "基隆市老人福利機構最近二次評鑑成績一覽表",
+                "fields": [
+                    "機構名稱",
+                    "101年成績等第",
+                    "102年評鑑成績",
+                    "104年成績等第",
+                    "備註"
+                ],
+                "encoding": "BIG5",
+                "file_type": "csv",
+                "amount": 31,
+                "api_fields": [
+                    {
+                        "name": "機構名稱"
+                    },
+                    {
+                        "name": "101年成績等第"
+                    },
+                    {
+                        "name": "102年評鑑成績"
+                    },
+                    {
+                        "name": "104年成績等第"
+                    },
+                    {
+                        "name": "備註"
+                    }
+                ],
+                "last_update_time": 1506678764,
+                "check_time": 1507317214,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_wcbNxk_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "BIG5",
+                    "fields": [
+                        "機構名稱",
+                        "101年成績等第",
+                        "102年評鑑成績",
+                        "104年成績等第",
+                        "備註"
+                    ],
+                    "amount": 31,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

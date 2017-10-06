@@ -1,0 +1,90 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市衛生局",
+        "pubdate": "2016/03/23 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7067/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%93%BA%E9%9B%86%E4%B9%B3%E5%AE%A4%E8%B3%87%E6%96%99%E5%BA%AB.csv": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "efd73d14c88b5a646bebc94a63f88643",
+                "md5_url": "a1dad281b0dc0fac6d9140c0d828b4a4",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/7067/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E5%93%BA%E9%9B%86%E4%B9%B3%E5%AE%A4%E8%B3%87%E6%96%99%E5%BA%AB.csv",
+                "desc": "基隆市哺集乳室資料庫",
+                "fields": [
+                    "場所",
+                    "機構",
+                    "場所名稱",
+                    "地址",
+                    "電話",
+                    "開放時間",
+                    "注意事項"
+                ],
+                "encoding": "UTF-8",
+                "file_type": "csv",
+                "amount": 40,
+                "api_fields": [
+                    {
+                        "name": "場所"
+                    },
+                    {
+                        "name": "機構"
+                    },
+                    {
+                        "name": "場所名稱"
+                    },
+                    {
+                        "name": "地址"
+                    },
+                    {
+                        "name": "電話"
+                    },
+                    {
+                        "name": "開放時間"
+                    },
+                    {
+                        "name": "注意事項"
+                    }
+                ],
+                "last_update_time": 1507316305,
+                "check_time": 1507316305,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_3xU5YR_s2.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "UTF-8",
+                    "fields": [
+                        "場所",
+                        "機構",
+                        "場所名稱",
+                        "地址",
+                        "電話",
+                        "開放時間",
+                        "注意事項"
+                    ],
+                    "amount": 40,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

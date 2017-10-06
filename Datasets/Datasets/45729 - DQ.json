@@ -1,0 +1,54 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 1,
+        "desc_match": 0,
+        "csv": 0,
+        "agency": "基隆市政府社會處",
+        "pubdate": "2017/06/03 00:00"
+    },
+    "resources": {
+        "http://social.klcg.gov.tw/social_srv/welfare_dl.php?file=dl&Kid=11&Mid=15&Cid=13": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 1,
+                "desc_match": 0,
+                "csv": 0,
+                "md5_file": "f2008e103f850547ad442e493a344226",
+                "md5_url": "a9d38c20c43f898d882ca616df1f2593",
+                "url": "http://social.klcg.gov.tw/social_srv/welfare_dl.php?file=dl&Kid=11&Mid=15&Cid=13",
+                "desc": "基隆市家庭暴力暨性侵害防治中心",
+                "fields": null,
+                "encoding": "BIG5",
+                "file_type": "csv",
+                "amount": 0,
+                "api_fields": null,
+                "last_update_time": 1506653342,
+                "check_time": 1507316820,
+                "ref_key": "",
+                "messages": [
+                    "[013] is_table_csv(): [csvlint]:\nLine #1 has error: wrong number of fields in line\n"
+                ]
+            },
+            "files": [
+                {
+                    "filename": "DTQC_B6lluA_s1.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 0,
+                    "desc_match": 0,
+                    "encoding": "BIG5",
+                    "fields": null,
+                    "amount": 0,
+                    "message": "[013] is_table_csv(): [csvlint]:\nLine #1 has error: wrong number of fields in line\n"
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}

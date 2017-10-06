@@ -1,0 +1,85 @@
+{
+    "status": true,
+    "dataset": {
+        "linkable": 1,
+        "downloadable": 1,
+        "structure": 1,
+        "encoding_match": 0,
+        "desc_match": 1,
+        "csv": 1,
+        "agency": "基隆市衛生局",
+        "pubdate": "2017/06/13 00:00"
+    },
+    "resources": {
+        "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/9969/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80105%E5%B9%B4%E9%A3%9F%E5%93%81%E6%8A%BD%E9%A9%97%E7%AC%A6%E5%90%88%E8%A6%8F%E5%AE%9A%E5%90%8D%E5%86%8A.csv": {
+            "resource": {
+                "linkable": 1,
+                "downloadable": 1,
+                "structure": 1,
+                "encoding_match": 0,
+                "desc_match": 1,
+                "csv": 1,
+                "md5_file": "6886b29bf45ce67a24d4d13f8263e4bd",
+                "md5_url": "acdf669d6c7878fae92247a8e392cdf7",
+                "url": "http://www.klchb.gov.tw/KLCHB/_uploadS/government/manage/9969/file/%E5%9F%BA%E9%9A%86%E5%B8%82%E8%A1%9B%E7%94%9F%E5%B1%80105%E5%B9%B4%E9%A3%9F%E5%93%81%E6%8A%BD%E9%A9%97%E7%AC%A6%E5%90%88%E8%A6%8F%E5%AE%9A%E5%90%8D%E5%86%8A.csv",
+                "desc": "基隆市衛生局105年食品抽驗符合規定名冊",
+                "fields": [
+                    "檢驗項目",
+                    "檢體編號",
+                    "檢體名稱",
+                    "抽驗廠商/地址",
+                    "來源廠商/地址",
+                    "檢驗結果"
+                ],
+                "encoding": "BIG5",
+                "file_type": "csv",
+                "amount": 559,
+                "api_fields": [
+                    {
+                        "name": "檢驗項目"
+                    },
+                    {
+                        "name": "檢體編號"
+                    },
+                    {
+                        "name": "檢體名稱"
+                    },
+                    {
+                        "name": "抽驗廠商/地址"
+                    },
+                    {
+                        "name": "來源廠商/地址"
+                    },
+                    {
+                        "name": "檢驗結果"
+                    }
+                ],
+                "last_update_time": 1507316870,
+                "check_time": 1507316870,
+                "ref_key": "",
+                "messages": []
+            },
+            "files": [
+                {
+                    "filename": "DTQC_HPwWgd_s2.csv",
+                    "file_type": "CSV",
+                    "structure": 1,
+                    "csv": 1,
+                    "desc_match": 1,
+                    "encoding": "BIG5",
+                    "fields": [
+                        "檢驗項目",
+                        "檢體編號",
+                        "檢體名稱",
+                        "抽驗廠商/地址",
+                        "來源廠商/地址",
+                        "檢驗結果"
+                    ],
+                    "amount": 559,
+                    "message": ""
+                }
+            ]
+        }
+    },
+    "no_qc": []
+}
