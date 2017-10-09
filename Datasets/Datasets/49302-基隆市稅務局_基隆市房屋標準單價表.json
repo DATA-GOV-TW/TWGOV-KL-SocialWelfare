@@ -1,0 +1,52 @@
+{
+    "title": "基隆市房屋標準單價表",
+    "node": "49302",
+    "datapackage_version": "2017-10-09 11:20:23",
+    "資料集描述": "集中列示於政府資料開放平台資料集之詮釋資料，不同樓層數及用途之房屋標準單單價",
+    "主要欄位說明": "基隆市房屋標準單價表",
+    "資料資源": {
+        "resource_0": {
+            "主要欄位說明": "基隆市房屋標準單價表",
+            "檔案格式": "CSV",
+            "編碼": "UTF-8",
+            "資料量": "9",
+            "資源網址": "https://www.kltb.gov.tw/core/download/getfile.php?itemId=3733&filekey=0",
+            "資源描述": "集中列示於政府資料開放平台資料集之詮釋資料，不同樓層數及用途之房屋標準單單價",
+            "資料資源更新時間": "2017/07/31 11:28",
+            "dq_check": "checked",
+            "linkable": 1,
+            "downloadable": 1,
+            "structure": 1,
+            "encoding_match": 0,
+            "desc_match": 0,
+            "csv": 0,
+            "fields": null,
+            "encoding": false,
+            "file_type": "csv",
+            "amount": 0,
+            "check_time": 1507317134,
+            "messages": [
+                "[013] is_table_csv(): [csvlint]:\nLine #39 has error: bare \" in non-quoted-field\n\nunable to parse any further\n"
+            ]
+        }
+    },
+    "提供機關": "基隆市稅務局",
+    "提供機關聯絡人": "郭小姐 (0224331888#321)",
+    "授權方式": "政府資料開放授權條款-第1版",
+    "計費方式": "免費",
+    "上架日期": "2017/07/31",
+    "資料集類型": "原始資料",
+    "詮釋資料更新時間": "2017/08/01 11:19",
+    "關鍵字": "",
+    "主題分類": "其他",
+    "服務分類": "公共資訊",
+    "備註": "更新頻率說明: 每三年\n授權說明網址: http://data.gov.tw/license",
+    "stats": {
+        "瀏覽次數:": "74",
+        "下載次數:": "16",
+        "意見數:": "0"
+    },
+    "resource_type": [
+        "CSV"
+    ]
+}
